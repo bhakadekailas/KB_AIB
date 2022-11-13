@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">KB_AIB</string>
+    <string name="enter_your_city_name">Enter your city name</string>
+    <string name="search">Search</string>
+    <string name="search_image_view">Search Image View</string>
+    <string name="enter_your_city">"Please enter your city name"</string>
+    <string name="api_error">"Api error"</string>
+    <string name="network_not_found">"Network Not Found"</string>
+    <string name="please_wait">"Please wait"</string>
+    <string name="city_not_found">"City not found, Please entered correct city name"</string>
+    <string name="forecast_not_found">"Forecast not found for this city"</string>
+    <string name="city_name">City Name</string>
+    <string name="temperature">Temperature</string>
+    <string name="climate_type">Climate Type</string>
+    <string name="high_temperature">High</string>
+    <string name="low_temperature">Low</string>
+    <string name="celsius">°C</string>
+    <string name="todays_s_climate">Today\'s Climate</string>
+    <string name="next_four_day_s_climate">Next Four Day\'s Climate</string>
+    <string name="day">Day</string>
+    <string name="max_temperature">Max Temperature</string>
+    <string name="min_temperature">Min Temperature</string>
+    <string name="cloud_type_image">Cloud Type Image</string>
+    <string name="high_temp">H </string>
+    <string name="low_temp">L </string>
+    <string name="cloud">Clouds</string>
+
+</resources>
